@@ -1,7 +1,7 @@
 /* Apply a futuristic gradient background */
 body {
     font-family: "Poppins", sans-serif;
-    background: linear-gradient(135deg, #0066ff, #00cc66, #ff0033);
+    background: linear-gradient(135deg, #105ccd, #00cc66, #ff0033);
     color: white;
     min-height: 100vh;
     display: flex;
